@@ -77,7 +77,7 @@ const App = () => {
       </div>
 
       <p className="mt-4 text-xl text-gray-800 dark:text-gray-200">
-        {GetStatus}
+        {<GetStatus/>}
       </p>
 
       <button
